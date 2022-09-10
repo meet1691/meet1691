@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meet1691
 - 👀 I’m interested in AndroidDevelopment , spring and one of the most "cooking".
 - 🌱 I’m currently learning full Stack App development.
-- 💞️ I’m looking to collaborate on Mobile Apps, web Apps.
+- 💞️ I’m looking to collaborate on Mobile Apps.
 - 📫 How to reach me - mail-patelmeet1691@gmail.com
 
 <!---
