@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meet1691
 - 👀 I’m interested in AndroidDevelopment , spring , flutter , reactnative and one of the most "cooking".
 - 🌱 I’m full Stack App developer.
-- 💻 I'm currently serving as a Software Development Engineer at @Growexx.
 - 💞️ I’m looking to collaborate on Mobile Apps.
 - 📫 How to reach me - mail-patelmeet1691@gmail.com
 
